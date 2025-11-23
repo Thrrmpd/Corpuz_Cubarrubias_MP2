@@ -48,3 +48,8 @@ As the input size got bigger, the runtime increased in a steady and predictable 
 **Conclusion**
 
 Overall, the project showed that the assembly version of the acceleration calculation is both correct and very efficient. It handles small and large inputs seamlessly, and even the largest dataset completes almost rapidly. The performance increases in a linear and predictable manner, making the application appropriate for bigger workloads if required. In short, the assembly solution satisfies the criteria by being quick, scalable, and precise.
+
+
+
+## Output and Correctness Check 
+![image alt](https://github.com/Thrrmpd/Corpuz_Cubarrubias_MP2/blob/b1880ab45508c6627f2011fe3441df96c6f3c61d/Output%20and%20Correctness%20check.jpg)
