@@ -1,0 +1,2 @@
+^C:\USERS\THARA MAE CORPUZ\DOCUMENTS\3RD YEAR COLLEGE\LBYARCH\MP2\COR_CUB_MP2\ASMFUNC.ASM
+"C:\Users\Thara Mae Corpuz\Downloads\nasm-3.01-win64\nasm-3.01\nasm.exe" -f win64 "C:\Users\Thara Mae Corpuz\Documents\3rd Year College\LBYARCH\MP2\Cor_Cub_MP2\asmfunc.asm" -o "Cor_Cub_MP2\x64\Debug\asmfunc.obj"
