@@ -31,8 +31,8 @@ Each dataset was processed 30 times, and the average execution time was recorded
 | Input Size    | Average Time (Seconds)                                                     | 
 | ------------- | --------------------------------------------------------------- |
 | 10      | 0.000000                                         | 
-| 100   | 0.000000                          | 
-| 1000  | 0.000004                                 | 
+| 100   | 0.000001                          | 
+| 1000  | 0.000003                                 | 
 | 10000          | 0.000032 |
 
 **Performance Analysis**
