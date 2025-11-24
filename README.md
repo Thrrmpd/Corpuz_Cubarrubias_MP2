@@ -49,3 +49,7 @@ Overall, the project showed that the assembly version of the acceleration calcul
 
 ## Output and Correctness Check 
 ![image alt](https://github.com/Thrrmpd/Corpuz_Cubarrubias_MP2/blob/a2fc3bdec8f8082b76c0e58722788f2ff73131f1/Output%20and%20Correctness%20check.jpg)
+
+
+## Video Presentation
+[video link](https://drive.google.com/file/d/1H2fP1Ws2pNA6W264nc3CKpcx0utWVBlH/view?usp=sharing)
